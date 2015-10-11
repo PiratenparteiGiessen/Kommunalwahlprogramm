@@ -1,5 +1,11 @@
 # Für die digitale Revolution vor Deiner Haustür
 
+Bild
+
+Einleitung
+
+### Konkrete Forderungen
+
 - Überall online – für freie Netze in Stadt und Land mit Freifunk
 - WLAN in allen Bussen und Bahnen
 - Ein Gigabit für alle - Netzausbau schneller und breiter!
@@ -9,12 +15,24 @@
 
 # Alle Infos aus deiner Stadt – transparent im Netz
 
+Bild
+
+Einleitung
+
+### Konkrete Forderungen
+
 - Das Recht auf Information und Transparenz – Informationsfreiheitssatzungen einführen!
 - Durchblick durch die Kommunalen Finanzen – Mit OpenHaushalt sehen, wo die Gelder hinfließen
 - Live und ungeschnitten: Sitzungen kommunaler Gremien online übertragen und archivieren
 - Umfassender und einfacher Zugriff auf Dokumente von Städten und Kreisen - Ratsinformationssysteme ausbauen
 
 # Mitdenken, mitreden, mitentscheiden
+
+Bild
+
+Einleitung
+
+### Konkrete Forderungen
 
 - Große Entscheidungen auf breiter Grundlage - Verbindliche Bürgerentscheide bei Großinvestitionen
 - Damit die Stadt die Bürger entscheiden lassen kann - Ratsbegehren in Hessen einführen
@@ -25,6 +43,12 @@
 
 # Transparenter Staat statt gläserner Bürger
 
+Bild
+
+Einleitung
+
+### Konkrete Forderungen
+
 - Piraten als Stimme für Grundrechts- und Datenschutz vor Ort
 - Videoüberwachung im öffentlichen Raum kritisch überprüfen und abbauen
 - Abgeordnetenwatch für alle Stadtverordnetenversammlungen und Kreistage
@@ -33,6 +57,12 @@
 
 # Gemeingüter teilen
 
+Bild
+
+Einleitung
+
+### Konkrete Forderungen
+
 - Freie Software gemeinsam kommunal entwickeln, nutzen und fördern
 - Das Semesterticket für alle – Der umlagefinanzierte ÖPNV macht jeden mobil!
 - Netze in Bürgerhand – Für die Rekommunalisierung von Strom- und Wassernetzen
@@ -40,6 +70,12 @@
 - Ein 3D-Drucker für jede weiterführende Schule
 
 # Globale Verantwortung vor Ort
+
+Bild
+
+Einleitung
+
+### Konkrete Forderungen
 
 - Dezentrale Unterbringungsangebote für Flüchtlinge und Internet in allen Unterkünften
 - Ausbau von Bildungs- und Betreuungsangeboten für Flüchtlinge
